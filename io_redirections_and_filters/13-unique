@@ -1,0 +1,2 @@
+#!/bin/bash
+read -p " one line , one word "input
