@@ -1,0 +1,2 @@
+#!/bin/bash
+num_directories=$(find . -type d -name '.*' -mindepth 1 -not -path '*/\.*' | wc -l)
