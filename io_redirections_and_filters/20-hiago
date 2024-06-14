@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $texte | tr -d 'cC'
+$(echo $texte | tr -d 'cC')
