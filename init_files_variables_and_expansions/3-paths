@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH num_dirs"
+echo $PATH | num_dirs"
